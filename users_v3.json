@@ -1,0 +1,11 @@
+{
+  "supportTelegram": "@infinitywidy",
+  "supportMessage": "برای خرید اشتراک، آیدی عددی تلگرام خود (از @userinfobot) را به پشتیبانی بفرستید:",
+  "allowedUserIds": [
+    1961870785
+  ],
+  "allowedPhones": [
+    "09364193991",
+    "1961870785"
+  ]
+}
